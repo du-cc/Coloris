@@ -701,8 +701,6 @@
         break;
     }
 
-    // Select the current format in the format switcher
-    document.querySelector(`.clr-format [value="${format}"]`).checked = true;
   }
 
   /**
